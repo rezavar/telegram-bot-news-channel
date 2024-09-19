@@ -7,9 +7,7 @@
 * **Bot and Client Functionality:** Implements both bot and client functionalities using GramJS.
 * **MTProxy Support:** Leverages MTProxy for enhanced privacy and performance.
 * **Hook-less Implementation:** The project is implemented without webhooks, offering a simpler approach.
-* **Channel News Aggregation and Moderation:** The bot can subscribe to multiple channels, aggregate news, and present it to a moderator for approval.
-* **Inline Keyboard for Moderation:** Moderators can approve or reject news items using inline keyboard buttons.
-* **Automated Publication:** Approved news is automatically published to a designated channel.
+
 
 ### Getting Started:
 
