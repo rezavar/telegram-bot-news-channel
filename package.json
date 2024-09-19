@@ -1,0 +1,20 @@
+{
+  "name": "news-channel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.4",
+    "input": "^1.0.1",
+    "nedb": "^1.8.0",
+    "node-cron": "^3.0.3",
+    "telegram": "^2.23.2"
+  }
+}
